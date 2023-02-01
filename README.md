@@ -6,7 +6,7 @@
 ```
 conda create --name bmtk python=3.8
 ```
-### Then run the follow commands to activate your enviroment and install the python packages. If you are on a windows computer, to install neuron visit this [link](https://www.neuron.yale.edu/neuron/download) instead of using pip. You can also build bmtk from their GitHub but that should not be needed for now. Also make sure to downlaod this GitHub repo (WHICH ONE?) so you have the requirements.txt file on your computer. Then make sure to change your directory to this (WHICH ONE?) folder on your computer. 
+### Then run the follow commands to activate your enviroment and install the python packages. If you are on a windows computer, to install neuron visit this [link](https://www.neuron.yale.edu/neuron/download) instead of using pip. You can also build bmtk from their GitHub but that should not be needed for now. Also make sure to downlaod this GitHub repo (WHICH ONE?) so you have the requirements.txt file on your computer. Then make sure to change your directory to this (WHICH ONE?) folder on your computer. Note: For windows computer, just use pip install bmtk on line 13 below.
 ```
 conda activate bmtk
 pip install -r requirements.txt
